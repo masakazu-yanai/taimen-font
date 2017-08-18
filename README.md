@@ -71,4 +71,6 @@ taimenFont
 + [裏切りのプログラム　ハッカー探偵 鹿敷堂桂馬](http://crocro.com/novel/item/uragiri-no-program/)
 + [顔貌売人　ハッカー探偵 鹿敷堂桂馬](http://crocro.com/novel/item/gannbou-baininn/)
 
+![裏切りのプログラム　ハッカー探偵 鹿敷堂桂馬](kasikidou1-obi-200.png)
+![顔貌売人　ハッカー探偵 鹿敷堂桂馬](kasikidou2-obi-200.png)
 
